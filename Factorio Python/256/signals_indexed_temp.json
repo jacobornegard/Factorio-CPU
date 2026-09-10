@@ -1,0 +1,2050 @@
+[
+  {
+    "index": 1,
+    "type": "item",
+    "name": "wooden-chest",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 2,
+    "type": "item",
+    "name": "iron-chest",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 3,
+    "type": "item",
+    "name": "steel-chest",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 4,
+    "type": "item",
+    "name": "storage-tank",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 5,
+    "type": "item",
+    "name": "transport-belt",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 6,
+    "type": "item",
+    "name": "fast-transport-belt",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 7,
+    "type": "item",
+    "name": "express-transport-belt",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 8,
+    "type": "item",
+    "name": "underground-belt",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 9,
+    "type": "item",
+    "name": "fast-underground-belt",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 10,
+    "type": "item",
+    "name": "express-underground-belt",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 11,
+    "type": "item",
+    "name": "splitter",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 12,
+    "type": "item",
+    "name": "fast-splitter",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 13,
+    "type": "item",
+    "name": "express-splitter",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 14,
+    "type": "item",
+    "name": "burner-inserter",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 15,
+    "type": "item",
+    "name": "inserter",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 16,
+    "type": "item",
+    "name": "long-handed-inserter",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 17,
+    "type": "item",
+    "name": "fast-inserter",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 18,
+    "type": "item",
+    "name": "bulk-inserter",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 19,
+    "type": "item",
+    "name": "small-electric-pole",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 20,
+    "type": "item",
+    "name": "medium-electric-pole",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 21,
+    "type": "item",
+    "name": "big-electric-pole",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 22,
+    "type": "item",
+    "name": "substation",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 23,
+    "type": "item",
+    "name": "pipe",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 24,
+    "type": "item",
+    "name": "pipe-to-ground",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 25,
+    "type": "item",
+    "name": "pump",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 26,
+    "type": "item",
+    "name": "rail",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 27,
+    "type": "item",
+    "name": "train-stop",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 28,
+    "type": "item",
+    "name": "rail-signal",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 29,
+    "type": "item",
+    "name": "rail-chain-signal",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 30,
+    "type": "item",
+    "name": "locomotive",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 31,
+    "type": "item",
+    "name": "cargo-wagon",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 32,
+    "type": "item",
+    "name": "fluid-wagon",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 33,
+    "type": "item",
+    "name": "artillery-wagon",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 34,
+    "type": "item",
+    "name": "car",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 35,
+    "type": "item",
+    "name": "tank",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 36,
+    "type": "item",
+    "name": "spidertron",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 37,
+    "type": "item",
+    "name": "logistic-robot",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 38,
+    "type": "item",
+    "name": "construction-robot",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 39,
+    "type": "item",
+    "name": "active-provider-chest",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 40,
+    "type": "item",
+    "name": "passive-provider-chest",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 41,
+    "type": "item",
+    "name": "storage-chest",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 42,
+    "type": "item",
+    "name": "buffer-chest",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 43,
+    "type": "item",
+    "name": "requester-chest",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 44,
+    "type": "item",
+    "name": "roboport",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 45,
+    "type": "item",
+    "name": "small-lamp",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 46,
+    "type": "item",
+    "name": "arithmetic-combinator",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 47,
+    "type": "item",
+    "name": "decider-combinator",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 48,
+    "type": "item",
+    "name": "selector-combinator",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 49,
+    "type": "item",
+    "name": "constant-combinator",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 50,
+    "type": "item",
+    "name": "power-switch",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 51,
+    "type": "item",
+    "name": "programmable-speaker",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 52,
+    "type": "item",
+    "name": "display-panel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 53,
+    "type": "item",
+    "name": "stone-brick",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 54,
+    "type": "item",
+    "name": "concrete",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 55,
+    "type": "item",
+    "name": "hazard-concrete",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 56,
+    "type": "item",
+    "name": "refined-concrete",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 57,
+    "type": "item",
+    "name": "refined-hazard-concrete",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 58,
+    "type": "item",
+    "name": "landfill",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 59,
+    "type": "item",
+    "name": "cliff-explosives",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 60,
+    "type": "item",
+    "name": "repair-pack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 61,
+    "type": "item",
+    "name": "blueprint",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 62,
+    "type": "item",
+    "name": "deconstruction-planner",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 63,
+    "type": "item",
+    "name": "upgrade-planner",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 64,
+    "type": "item",
+    "name": "blueprint-book",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 65,
+    "type": "item",
+    "name": "boiler",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 66,
+    "type": "item",
+    "name": "steam-engine",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 67,
+    "type": "item",
+    "name": "solar-panel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 68,
+    "type": "item",
+    "name": "accumulator",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 69,
+    "type": "item",
+    "name": "nuclear-reactor",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 70,
+    "type": "item",
+    "name": "heat-pipe",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 71,
+    "type": "item",
+    "name": "heat-exchanger",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 72,
+    "type": "item",
+    "name": "steam-turbine",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 73,
+    "type": "item",
+    "name": "burner-mining-drill",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 74,
+    "type": "item",
+    "name": "electric-mining-drill",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 75,
+    "type": "item",
+    "name": "offshore-pump",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 76,
+    "type": "item",
+    "name": "pumpjack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 77,
+    "type": "item",
+    "name": "stone-furnace",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 78,
+    "type": "item",
+    "name": "steel-furnace",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 79,
+    "type": "item",
+    "name": "electric-furnace",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 80,
+    "type": "item",
+    "name": "assembling-machine-1",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 81,
+    "type": "item",
+    "name": "assembling-machine-2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 82,
+    "type": "item",
+    "name": "assembling-machine-3",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 83,
+    "type": "item",
+    "name": "oil-refinery",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 84,
+    "type": "item",
+    "name": "chemical-plant",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 85,
+    "type": "item",
+    "name": "centrifuge",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 86,
+    "type": "item",
+    "name": "lab",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 87,
+    "type": "item",
+    "name": "beacon",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 88,
+    "type": "item",
+    "name": "speed-module",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 89,
+    "type": "item",
+    "name": "speed-module-2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 90,
+    "type": "item",
+    "name": "speed-module-3",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 91,
+    "type": "item",
+    "name": "efficiency-module",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 92,
+    "type": "item",
+    "name": "efficiency-module-2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 93,
+    "type": "item",
+    "name": "efficiency-module-3",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 94,
+    "type": "item",
+    "name": "productivity-module",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 95,
+    "type": "item",
+    "name": "productivity-module-2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 96,
+    "type": "item",
+    "name": "productivity-module-3",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 97,
+    "type": "item",
+    "name": "rocket-silo",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 98,
+    "type": "item",
+    "name": "cargo-landing-pad",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 99,
+    "type": "item",
+    "name": "satellite",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 100,
+    "type": "recipe",
+    "name": "basic-oil-processing",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 101,
+    "type": "recipe",
+    "name": "advanced-oil-processing",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 102,
+    "type": "recipe",
+    "name": "coal-liquefaction",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 103,
+    "type": "recipe",
+    "name": "heavy-oil-cracking",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 104,
+    "type": "recipe",
+    "name": "light-oil-cracking",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 105,
+    "type": "recipe",
+    "name": "solid-fuel-from-petroleum-gas",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 106,
+    "type": "recipe",
+    "name": "solid-fuel-from-light-oil",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 107,
+    "type": "recipe",
+    "name": "solid-fuel-from-heavy-oil",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 108,
+    "type": "item",
+    "name": "wood",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 109,
+    "type": "item",
+    "name": "coal",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 110,
+    "type": "item",
+    "name": "stone",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 111,
+    "type": "item",
+    "name": "iron-ore",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 112,
+    "type": "item",
+    "name": "copper-ore",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 113,
+    "type": "item",
+    "name": "uranium-ore",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 114,
+    "type": "item",
+    "name": "raw-fish",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 115,
+    "type": "item",
+    "name": "iron-plate",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 116,
+    "type": "item",
+    "name": "copper-plate",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 117,
+    "type": "item",
+    "name": "steel-plate",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 118,
+    "type": "item",
+    "name": "solid-fuel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 119,
+    "type": "item",
+    "name": "plastic-bar",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 120,
+    "type": "item",
+    "name": "sulfur",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 121,
+    "type": "item",
+    "name": "battery",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 122,
+    "type": "item",
+    "name": "explosives",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 123,
+    "type": "item",
+    "name": "water-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 124,
+    "type": "item",
+    "name": "crude-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 125,
+    "type": "item",
+    "name": "petroleum-gas-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 126,
+    "type": "item",
+    "name": "light-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 127,
+    "type": "item",
+    "name": "heavy-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 128,
+    "type": "item",
+    "name": "lubricant-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 129,
+    "type": "item",
+    "name": "sulfuric-acid-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 130,
+    "type": "recipe",
+    "name": "water-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 131,
+    "type": "recipe",
+    "name": "crude-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 132,
+    "type": "recipe",
+    "name": "petroleum-gas-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 133,
+    "type": "recipe",
+    "name": "light-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 134,
+    "type": "recipe",
+    "name": "heavy-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 135,
+    "type": "recipe",
+    "name": "lubricant-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 136,
+    "type": "recipe",
+    "name": "sulfuric-acid-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 137,
+    "type": "recipe",
+    "name": "empty-water-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 138,
+    "type": "recipe",
+    "name": "empty-crude-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 139,
+    "type": "recipe",
+    "name": "empty-petroleum-gas-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 140,
+    "type": "recipe",
+    "name": "empty-light-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 141,
+    "type": "recipe",
+    "name": "empty-heavy-oil-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 142,
+    "type": "recipe",
+    "name": "empty-lubricant-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 143,
+    "type": "recipe",
+    "name": "empty-sulfuric-acid-barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 144,
+    "type": "item",
+    "name": "iron-gear-wheel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 145,
+    "type": "item",
+    "name": "iron-stick",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 146,
+    "type": "item",
+    "name": "copper-cable",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 147,
+    "type": "item",
+    "name": "barrel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 148,
+    "type": "item",
+    "name": "electronic-circuit",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 149,
+    "type": "item",
+    "name": "advanced-circuit",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 150,
+    "type": "item",
+    "name": "processing-unit",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 151,
+    "type": "item",
+    "name": "engine-unit",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 152,
+    "type": "item",
+    "name": "electric-engine-unit",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 153,
+    "type": "item",
+    "name": "flying-robot-frame",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 154,
+    "type": "item",
+    "name": "low-density-structure",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 155,
+    "type": "item",
+    "name": "rocket-fuel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 156,
+    "type": "item",
+    "name": "rocket-part",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 157,
+    "type": "recipe",
+    "name": "uranium-processing",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 158,
+    "type": "item",
+    "name": "uranium-235",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 159,
+    "type": "item",
+    "name": "uranium-238",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 160,
+    "type": "item",
+    "name": "uranium-fuel-cell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 161,
+    "type": "item",
+    "name": "depleted-uranium-fuel-cell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 162,
+    "type": "recipe",
+    "name": "nuclear-fuel-reprocessing",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 163,
+    "type": "recipe",
+    "name": "kovarex-enrichment-process",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 164,
+    "type": "item",
+    "name": "nuclear-fuel",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 165,
+    "type": "item",
+    "name": "automation-science-pack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 166,
+    "type": "item",
+    "name": "logistic-science-pack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 167,
+    "type": "item",
+    "name": "military-science-pack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 168,
+    "type": "item",
+    "name": "chemical-science-pack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 169,
+    "type": "item",
+    "name": "production-science-pack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 170,
+    "type": "item",
+    "name": "utility-science-pack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 171,
+    "type": "item",
+    "name": "space-science-pack",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 172,
+    "type": "item",
+    "name": "pistol",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 173,
+    "type": "item",
+    "name": "submachine-gun",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 174,
+    "type": "item",
+    "name": "shotgun",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 175,
+    "type": "item",
+    "name": "combat-shotgun",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 176,
+    "type": "item",
+    "name": "rocket-launcher",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 177,
+    "type": "item",
+    "name": "flamethrower",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 178,
+    "type": "item",
+    "name": "firearm-magazine",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 179,
+    "type": "item",
+    "name": "piercing-rounds-magazine",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 180,
+    "type": "item",
+    "name": "uranium-rounds-magazine",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 181,
+    "type": "item",
+    "name": "shotgun-shell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 182,
+    "type": "item",
+    "name": "piercing-shotgun-shell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 183,
+    "type": "item",
+    "name": "cannon-shell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 184,
+    "type": "item",
+    "name": "explosive-cannon-shell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 185,
+    "type": "item",
+    "name": "uranium-cannon-shell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 186,
+    "type": "item",
+    "name": "explosive-uranium-cannon-shell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 187,
+    "type": "item",
+    "name": "artillery-shell",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 188,
+    "type": "item",
+    "name": "rocket",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 189,
+    "type": "item",
+    "name": "explosive-rocket",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 190,
+    "type": "item",
+    "name": "atomic-bomb",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 191,
+    "type": "item",
+    "name": "flamethrower-ammo",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 192,
+    "type": "item",
+    "name": "grenade",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 193,
+    "type": "item",
+    "name": "cluster-grenade",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 194,
+    "type": "item",
+    "name": "poison-capsule",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 195,
+    "type": "item",
+    "name": "slowdown-capsule",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 196,
+    "type": "entity",
+    "name": "defender",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 197,
+    "type": "item",
+    "name": "defender-capsule",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 198,
+    "type": "entity",
+    "name": "distractor",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 199,
+    "type": "item",
+    "name": "distractor-capsule",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 200,
+    "type": "entity",
+    "name": "destroyer",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 201,
+    "type": "item",
+    "name": "destroyer-capsule",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 202,
+    "type": "item",
+    "name": "light-armor",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 203,
+    "type": "item",
+    "name": "heavy-armor",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 204,
+    "type": "item",
+    "name": "modular-armor",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 205,
+    "type": "item",
+    "name": "power-armor",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 206,
+    "type": "item",
+    "name": "power-armor-mk2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 207,
+    "type": "item",
+    "name": "solar-panel-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 208,
+    "type": "item",
+    "name": "fission-reactor-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 209,
+    "type": "item",
+    "name": "battery-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 210,
+    "type": "item",
+    "name": "battery-mk2-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 211,
+    "type": "item",
+    "name": "belt-immunity-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 212,
+    "type": "item",
+    "name": "exoskeleton-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 213,
+    "type": "item",
+    "name": "personal-roboport-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 214,
+    "type": "item",
+    "name": "personal-roboport-mk2-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 215,
+    "type": "item",
+    "name": "night-vision-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 216,
+    "type": "item",
+    "name": "energy-shield-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 217,
+    "type": "item",
+    "name": "energy-shield-mk2-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 218,
+    "type": "item",
+    "name": "personal-laser-defense-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 219,
+    "type": "item",
+    "name": "discharge-defense-equipment",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 220,
+    "type": "item",
+    "name": "stone-wall",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 221,
+    "type": "item",
+    "name": "gate",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 222,
+    "type": "item",
+    "name": "radar",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 223,
+    "type": "item",
+    "name": "land-mine",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 224,
+    "type": "item",
+    "name": "gun-turret",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 225,
+    "type": "item",
+    "name": "laser-turret",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 226,
+    "type": "item",
+    "name": "flamethrower-turret",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 227,
+    "type": "item",
+    "name": "artillery-turret",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 228,
+    "type": "fluid",
+    "name": "water",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 229,
+    "type": "fluid",
+    "name": "steam",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 230,
+    "type": "fluid",
+    "name": "crude-oil",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 231,
+    "type": "fluid",
+    "name": "petroleum-gas",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 232,
+    "type": "fluid",
+    "name": "light-oil",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 233,
+    "type": "fluid",
+    "name": "heavy-oil",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 234,
+    "type": "fluid",
+    "name": "lubricant",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 235,
+    "type": "fluid",
+    "name": "sulfuric-acid",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 236,
+    "type": "virtual",
+    "name": "shape-vertical",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 237,
+    "type": "virtual",
+    "name": "shape-horizontal",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 238,
+    "type": "virtual",
+    "name": "shape-curve",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 239,
+    "type": "virtual",
+    "name": "shape-curve-2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 240,
+    "type": "virtual",
+    "name": "shape-corner",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 241,
+    "type": "virtual",
+    "name": "shape-corner-2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 242,
+    "type": "virtual",
+    "name": "shape-t",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 243,
+    "type": "virtual",
+    "name": "shape-t-2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 244,
+    "type": "virtual",
+    "name": "shape-cross",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 245,
+    "type": "virtual",
+    "name": "shape-diagonal-cross",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 246,
+    "type": "virtual",
+    "name": "shape-diagonal",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 247,
+    "type": "virtual",
+    "name": "shape-diagonal-2",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 248,
+    "type": "virtual",
+    "name": "shape-curve-3",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 249,
+    "type": "virtual",
+    "name": "shape-curve-4",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 250,
+    "type": "virtual",
+    "name": "shape-corner-4",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 251,
+    "type": "virtual",
+    "name": "shape-corner-3",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 252,
+    "type": "virtual",
+    "name": "shape-t-4",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 253,
+    "type": "virtual",
+    "name": "shape-t-3",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 254,
+    "type": "virtual",
+    "name": "shape-circle",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 255,
+    "type": "virtual",
+    "name": "signal-dot",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  },
+  {
+    "index": 256,
+    "type": "virtual",
+    "name": "up-arrow",
+    "quality": "normal",
+    "comparator": "=",
+    "count": 1
+  }
+]
