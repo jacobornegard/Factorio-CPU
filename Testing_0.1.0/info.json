@@ -1,0 +1,13 @@
+{
+  "name": "Testing",
+  "version": "0.1.0",
+  "title": "Testing",
+  "author": "Jacob Ornegard",
+  "contact": "jacob.ornegard@gmail.com",
+  "homepage": "",
+  "factorio_version": "2.0.73",
+  "dependencies": [
+    "base >= 0.16"
+  ],
+  "description": "Homemade mod adding usefull in-game commands to interact with programs outside of the game."
+}
